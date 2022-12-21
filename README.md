@@ -4,3 +4,4 @@
 - Top Headlines endpoint -> https://newsapi.org/docs/endpoints/top-headlines
 - Before running the code run `pip install -r requirements.txt` for installing all the required packages
 - Sample Output:
+[file.png](/file.png)
